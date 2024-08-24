@@ -10,7 +10,7 @@
 
 ## Current Status
 
-- **Functional** - Laser cutter can be used by members.
+- **Functional** - Currently down waiting a new laser tube and upgrade to a Laserburn compatable controler.
 - **Remaining Issues:** No issues at this time.
   
 ### Maintenance Log
